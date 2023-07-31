@@ -8,4 +8,4 @@ At the end of a Geoguessr round a request is made to the server which lasts 100-
 There appears to be other reasons for the click not to register in the last second of the round, this script attempts to fix what is probably the most common problem.
 
 ### How to install?
-Click this link to install in Tampermonkey: [link](https://github.com/echandler/Last-second-click-fixer/raw/main/LastSecondClickFixer.user.js). If that doesn't work, open a new file in Tampermonkey and copy and past the wackScript.user.js file above in to it.
+Click this link to install in Tampermonkey: [link](https://github.com/echandler/Last-second-click-fixer/raw/main/LastSecondClickFixer.user.js). If that doesn't work, open a new file in Tampermonkey and copy and past the LastSecondClickFixer.user.js file above in to it.
